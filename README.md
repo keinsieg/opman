@@ -11,5 +11,4 @@ It features a classic desktop interface (FLTK-based) and Firefox integration for
 - Firefox extension for link capture  
 - yt-dlp integration as an add-on, not core
 
-## License
-[MIT](LICENSE)
+## [License](LICENSE)
